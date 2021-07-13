@@ -29,7 +29,7 @@ Intellij IDEA
 
 Программа компилирует не верное значение   
 
-[Ссылка на  issue](https://github.com/alexboom85/Money/issues/new)
+[Ссылка на  issue](https://github.com/alexboom85/Money/issues/1)
 
 ****Тестирование производилось в следующем окружении****
 
